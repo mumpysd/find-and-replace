@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mumpysd/find-and-replace/static/css/main.d5fbab01.css",
+    "main.js": "/mumpysd/find-and-replace/static/js/main.e92189c5.js",
+    "static/js/488.cd9e0e4a.chunk.js": "/mumpysd/find-and-replace/static/js/488.cd9e0e4a.chunk.js",
+    "index.html": "/mumpysd/find-and-replace/index.html",
+    "main.d5fbab01.css.map": "/mumpysd/find-and-replace/static/css/main.d5fbab01.css.map",
+    "main.e92189c5.js.map": "/mumpysd/find-and-replace/static/js/main.e92189c5.js.map",
+    "488.cd9e0e4a.chunk.js.map": "/mumpysd/find-and-replace/static/js/488.cd9e0e4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5fbab01.css",
+    "static/js/main.e92189c5.js"
+  ]
+}
