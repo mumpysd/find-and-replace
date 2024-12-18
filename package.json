@@ -1,7 +1,7 @@
 {
   "name": "find-replace",
   "version": "0.1.0",
-  "homepage": "https://mumpysd.github.io/find-and-replace",
+  "homepage": "https://mumpysd.github.io/find-and-replace/",
   "private": true,
   "dependencies": {
     "bootstrap": "^5.3.3",
