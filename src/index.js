@@ -24,7 +24,7 @@ const appRouter = createBrowserRouter([
 
 root.render(
   <React.StrictMode>
-    <RouterProvider router={appRouter}>
+    <RouterProvider router={appRouter} future={{ v7_startTransition: true }} basename="/find-and-replace">
         <App />
     </RouterProvider>
   </React.StrictMode>
